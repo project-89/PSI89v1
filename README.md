@@ -59,33 +59,9 @@ The real magic happens when you use both tools together:
      python --version
      ```
 
-2. **Install the Suite:**
-   ```bash
-   # Clone the reality-hacking tools
-   git clone https://github.com/Project89/Perception-Hacking-Suite.git
-   cd Perception-Hacking-Suite
-
-   # Install dependencies
-   pip install -r requirements.txt
-   ```
-
-3. **Launch Your Tools:**
-   
-   Reality Glitcher:
-   ```bash
-   cd RealityGlitcher
-   python glitcher.py
-   ```
-
-   Mind Mirror:
-   ```bash
-   cd MindMirror
-   python mirror.py
-   ```
-
-   Combined Interface:
-   ```bash
-   python launch.py --integrated
+2. **Open Software**
+   - Open Run-P89-Suite
+   - Explore and Enjoy
    ```
 
 ## 🎯 First Mission
@@ -93,8 +69,9 @@ The real magic happens when you use both tools together:
 1. Launch the Reality Glitcher
 2. Run a basic reality scan of your surroundings
 3. Note any anomalies or patterns that stand out
-4. Connect Mind Mirror to map your neural response
-5. Share your findings in the [Discord](https://discord.gg/project89)
+4. Open the Mind Mirror for further analysis
+5. Connect Mind Mirror to map your neural response
+6. Share your findings in the [Discord](https://discord.gg/project89)
 
 ## ⚠️ Reality Hacker's Note
 
@@ -117,134 +94,6 @@ This reality-hacking toolkit is licensed under the MIT License - see LICENSE for
 ## 🛡️ Disclaimer
 
 The Perception-Hacking Suite is an art project and consciousness exploration tool. Any alterations to your perception of reality are subjective experiences. We make no claims about modifying objective reality - though reality itself might have other plans.
-
-## About the Perception-Hacking Suite
-
-The Perception-Hacking Suite is a collection of applications designed for altering your perception of reality. These tools are developed as part of the PROJECT89 initiative to explore the nature of consciousness and reality.
-
-## Getting Started
-
-### Prerequisites
-
-The Perception-Hacking Suite requires Python for several of its components. If you don't have Python installed, follow these steps:
-
-1. **Install Python:**
-   - Visit [Python's official website](https://www.python.org/downloads/)
-   - Download the latest version of Python (3.8 or higher recommended)
-   - During installation, make sure to check "Add Python to PATH"
-   - Verify installation by opening a terminal/command prompt and typing:
-     ```bash
-     python --version
-     ```
-
-2. **Install pip (Python package manager):**
-   - Pip usually comes with Python installation
-   - Verify pip installation:
-     ```bash
-     pip --version
-     ```
-   - If pip is missing, download [get-pip.py](https://bootstrap.pypa.io/get-pip.py) and run:
-     ```bash
-     python get-pip.py
-     ```
-
-3. **Install Required Dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-### Quick Start
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Project89/Perception-Hacking-Suite.git
-   cd Perception-Hacking-Suite
-   ```
-
-2. Install component-specific dependencies (see individual component READMEs for details)
-
-3. Launch the suite:
-   ```bash
-   python launch.py
-   ```
-
-## Components
-
-### Reality Glitcher (v1.0.0)
-
-A sophisticated interface for creating and controlling reality glitches. This cyberpunk-themed application allows you to experience and manipulate different types of perception anomalies.
-
-**Key Features:**
-- Reality Status Dashboard with enhanced data visualization
-- Advanced Glitch Management System supporting visual, auditory, temporal, spatial, cognitive, and synchronistic glitches
-- Enhanced Quantum Fluctuations Graph with glitch-specific visualization effects
-- Type-specific glitch visualizations (visual glitches create vibrant effects, temporal glitches generate phase shifts, etc.)
-- Mind Mirror integration for consciousness-based reality manipulation
-- Real-time monitoring with advanced sensor metrics
-
-**Tech Stack:** React.js, Tailwind CSS, Canvas API
-
-[Learn more about Reality Glitcher](./RealityGlitcher/README.md)
-
-### Mind Mirror
-
-A neural network visualization tool that maps your consciousness and thought patterns.
-
-**Key Features:**
-- Interactive consciousness map
-- Neural node visualization
-- Thought pattern tracking
-- Deep consciousness exploration
-- Integration with Reality Glitcher
-
-**Tech Stack:** Python, TensorFlow, D3.js
-
-[Learn more about Mind Mirror](./MindMirror/README.md)
-
-### Dream Weaver
-
-A dream incubation and lucid dreaming technology that helps you navigate and program your dreamscape.
-
-**Key Features:**
-- Dream journal integration
-- Binaural beat generator
-- Dream incubation protocols
-- Lucidity triggers
-- Dream pattern analysis
-
-**Tech Stack:** TBA
-
-[Learn more about Dream Weaver](./DreamWeaver/README.md)
-
-## Integration
-
-The Perception-Hacking Suite components are designed to work together, creating a comprehensive ecosystem for reality exploration:
-
-- **Reality Glitcher + Mind Mirror**: Create reality glitches based on your neural patterns and consciousness data. The enhanced quantum fluctuations graph transforms when connected to Mind Mirror data, creating a visual representation of the interface between your consciousness and perceived reality.
-
-- **Mind Mirror + Dream Weaver**: Import your dream patterns into your consciousness map to identify subconscious structures.
-
-- **Synchronicity Detector + Reality Glitcher**: Trigger specific types of synchronicities by generating targeted reality glitches.
-
-- **Dream Weaver + Synchronicity Detector**: Program your dreams to amplify synchronistic events in waking reality.
-
-## Installation
-
-Each component has its own installation instructions. Please refer to the individual README files for detailed setup information.
-
-## Disclaimer
-
-The Perception-Hacking Suite is an art and consciousness exploration project. These applications are not medical devices and make no claims about altering objective reality. Any perceived changes to your reality are subjective experiences resulting from altered perception.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contributing
-
-We welcome contributions to the Perception-Hacking Suite! Please see our [Contribution Guidelines](CONTRIBUTING.md) for details on how to get involved.
-
-## Acknowledgments
 
 - The PROJECT89 research team
 - All consciousness explorers and reality hackers
