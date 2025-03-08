@@ -98,3 +98,13 @@ The Perception-Hacking Suite is an art project and consciousness exploration too
 - The PROJECT89 research team
 - All consciousness explorers and reality hackers
 - The open-source communities that made these tools possible 
+
+## Fixes
+
+Error message when saving a new journal entry
+
+To fix this problem, modify the permissions of the "journal" directory by adding execution rights like this:
+
+sudo chmod a+x user_data/journal
+And it works 😉
+-Trezheur
